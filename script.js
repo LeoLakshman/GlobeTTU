@@ -1,4 +1,4 @@
-const GIST_URL = 'https://gist.githubusercontent.com/LeoLakshman/2da0383115823f0c3f0395678899d666/raw/5df7401a146eef68c4f65ddb86733549b6d093d1/studentData.json';
+const GIST_URL = 'https://gist.githubusercontent.com/LeoLakshman/2da0383115823f0c3f0395678899d666/raw/d771fb4249a66078a2ea00eda39d3809d2a231c0/studentData.json';
 
 fetch(GIST_URL)
     .then(res => res.json())
