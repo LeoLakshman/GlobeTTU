@@ -1,0 +1,22 @@
+[
+  { "city": "London", "latitude": 51.5074, "longitude": -0.1278, "studentCount": 12, "major": "Computer Science", "otherDetails": "Year 3, GPA: 3.8, Clubs: AI Society" },
+  { "city": "Tokyo", "latitude": 35.6895, "longitude": 139.6917, "studentCount": 8, "major": "Engineering", "otherDetails": "Year 2, GPA: 3.5, Clubs: Robotics Club" },
+  { "city": "Sydney", "latitude": -33.8688, "longitude": 151.2093, "studentCount": 5, "major": "Business", "otherDetails": "Year 4, GPA: 3.9, Clubs: Finance Club" },
+  { "city": "Paris", "latitude": 48.8566, "longitude": 2.3522, "studentCount": 10, "major": "Arts", "otherDetails": "Year 1, GPA: 3.7, Clubs: Art Club" },
+  { "city": "New York", "latitude": 40.7128, "longitude": -74.0060, "studentCount": 15, "major": "Medicine", "otherDetails": "Year 5, GPA: 4.0, Clubs: Medical Society" },
+  { "city": "Rio de Janeiro", "latitude": -22.9068, "longitude": -43.1729, "studentCount": 3, "major": "Law", "otherDetails": "Year 2, GPA: 3.6, Clubs: Law Society" },
+  { "city": "Cairo", "latitude": 30.0444, "longitude": 31.2357, "studentCount": 7, "major": "Architecture", "otherDetails": "Year 3, GPA: 3.8, Clubs: Architecture Club" },
+  { "city": "Mumbai", "latitude": 19.0760, "longitude": 72.8777, "studentCount": 9, "major": "Mathematics", "otherDetails": "Year 4, GPA: 3.9, Clubs: Math Club" },
+  { "city": "Beijing", "latitude": 39.9042, "longitude": 116.4074, "studentCount": 6, "major": "Physics", "otherDetails": "Year 1, GPA: 3.7, Clubs: Physics Club" },
+  { "city": "Moscow", "latitude": 55.7558, "longitude": 37.6173, "studentCount": 4, "major": "Chemistry", "otherDetails": "Year 2, GPA: 3.5, Clubs: Chemistry Club" },
+  { "city": "Cape Town", "latitude": -33.9249, "longitude": 18.4241, "studentCount": 2, "major": "Biology", "otherDetails": "Year 3, GPA: 3.6, Clubs: Biology Club" },
+  { "city": "Toronto", "latitude": 43.6532, "longitude": -79.3832, "studentCount": 11, "major": "Economics", "otherDetails": "Year 4, GPA: 3.9, Clubs: Economics Society" },
+  { "city": "Mexico City", "latitude": 19.4326, "longitude": -99.1332, "studentCount": 8, "major": "History", "otherDetails": "Year 1, GPA: 3.8, Clubs: History Club" },
+  { "city": "Seoul", "latitude": 37.5665, "longitude": 126.9780, "studentCount": 7, "major": "Philosophy", "otherDetails": "Year 2, GPA: 3.7, Clubs: Philosophy Club" },
+  { "city": "Berlin", "latitude": 52.5200, "longitude": 13.4050, "studentCount": 5, "major": "Sociology", "otherDetails": "Year 3, GPA: 3.6, Clubs: Sociology Club" },
+  { "city": "Dubai", "latitude": 25.2048, "longitude": 55.2708, "studentCount": 9, "major": "Marketing", "otherDetails": "Year 4, GPA: 3.9, Clubs: Marketing Club" },
+  { "city": "Buenos Aires", "latitude": -34.6037, "longitude": -58.3816, "studentCount": 4, "major": "Journalism", "otherDetails": "Year 1, GPA: 3.8, Clubs: Journalism Club" },
+  { "city": "Nairobi", "latitude": -1.2921, "longitude": 36.8219, "studentCount": 3, "major": "Anthropology", "otherDetails": "Year 2, GPA: 3.7, Clubs: Anthropology Club" },
+  { "city": "Amsterdam", "latitude": 52.3702, "longitude": 4.8952, "studentCount": 6, "major": "Psychology", "otherDetails": "Year 3, GPA: 3.6, Clubs: Psychology Club" },
+  { "city": "Bangkok", "latitude": 13.7563, "longitude": 100.5018, "studentCount": 10, "major": "Political Science", "otherDetails": "Year 4, GPA: 3.9, Clubs: Political Science Club" }
+]
